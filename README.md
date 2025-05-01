@@ -42,7 +42,7 @@ React, Express, Pandas, NumPy, Scikit-learn, Flask
 - FAU's student-career matching tool (Senior Project Lead)  
 - Designed scalable UI, integrated with secure data routes, and planned mobile deployment
 
-### **Wordle Solver
+### **Wordle Solver**
 *Python + NLP*
 - Developed an intelligent algorithm to solve Wordle puzzles in under 4 guesses on average
 - 	Used frequency analysis, positional heuristics, and recursive pruning of candidate word space
