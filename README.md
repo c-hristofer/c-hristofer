@@ -1,5 +1,5 @@
 <details>
-  <summary><strong>🎓 Education</strong></summary>
+  <summary><strong>🎓 Education & Background</strong></summary>
   
 # Hi, I'm Christofer Piedra 👋  
 
@@ -9,21 +9,11 @@ I'm passionate about building secure, scalable systems that fuse intelligent aut
 - 🔐 Cybersecurity researcher experienced in network threat detection and traffic analysis
 - 📊 Dual-degree holder leveraging both product insight and technical depth
 
-</details>
-
----
-
-<details>
-  <summary><strong>🎓 Education</strong></summary>
-
   **Florida Atlantic University** 
   * B.S. Computer Science | AI Minor*
   * B.B.A. Business Administration*
 
-  - **2024 FAU Summer Undergraduate Research Fellow** – Conducted funded cybersecurity research in FAU's Tecore Lab  
-  - **Engineering Excellence Award (2024)** – College of Engineering’s highest honor for academic and technical achievement  
-  - **Faculty Choice Leadership Award (2024)** – Selected by the Dean for impactful leadership and initiative  
-  - Relevant Coursework: Secure Systems, AI & ML, Data Structures & Algorithms, Software Engineering, Business Strategy  
+  - **2024 FAU Summer Undergraduate Research Fellow** – Conducted funded cybersecurity research in FAU's Tecore Lab
 
 </details>
 
