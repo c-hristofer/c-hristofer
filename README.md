@@ -1,4 +1,7 @@
-# Hi, I'm Christofer Piedra 👋  
+<details>
+  <summary><strong>🎓 Education</strong></summary>
+  
+  # Hi, I'm Christofer Piedra 👋  
 
 **B.S. Computer Science (AI Minor) & B.B.A. Business Administration**  
 **2024 FAU Summer Undergraduate Research Fellow**
@@ -10,6 +13,7 @@ Passionate about merging secure systems, intelligent automation, and strategic U
 - 🔐 Researcher at FAU Tecore Lab (DDoS, Port Scan, ARP detection)
 
 ---
+</details>
 
 <details>
   <summary><strong>⚙️ Technical Skills</strong></summary>
