@@ -1,49 +1,43 @@
 # Hi, I'm Christofer Piedra 👋  
-** B.S. Computer Science | AI Minor & B.B.A. Business Administration 
-**Awards:** 2024 FAU Summer Undergraduate Research Fellow 
 
-With a passion for innovation and a foundation in both technology and business, I specialize in creating real-world solutions that merge secure systems, intelligent automation, and strategic user experience. I bring:
+**B.S. Computer Science (AI Minor) & B.B.A. Business Administration**  
+**2024 FAU Summer Undergraduate Research Fellow**
 
-- 💻 **Technical agility** across full-stack web development, machine learning, and network security  
-- 📊 **Business insight** shaped by leadership roles and a dual degree in CS + Management  
-- 🔐 **Cybersecurity fluency** through research at FAU’s Tecore Lab, building systems to detect threats like DDoS and ARP poisoning  
+Passionate about merging secure systems, intelligent automation, and strategic UX to drive impactful solutions across tech and business.  
 
-I’m excited to connect with innovators and problem-solvers across tech, education, and entrepreneurship. Currently seeking opportunities in **technical product management, cybersecurity, or software engineering** where I can scale ideas into impact.
-
----
-
-## ⚙️ Technical Skills
-
-**Languages:**  
-Python, Java, JavaScript, SQL, C, HTML/CSS, C++, CSS
-
-**Technologies:**  
-Git, Firebase, Zeek, InfluxDB, VMware, Node.js, AWS
-
-**Frameworks & Libraries:**  
-React, Express, Pandas, NumPy, Scikit-learn, Flask  
-
-**Core Competencies:**  
-- Full-stack Web Development | REST APIs | OOP | Cybersecurity Systems  
-- Intrusion Detection (IDS) | Data Analysis  
-- Product Strategy | Leadership Communication  
+- 💻 Full-stack & ML developer with cybersecurity experience  
+- 📊 Dual background in CS + Management with leadership insight  
+- 🔐 Researcher at FAU Tecore Lab (DDoS, Port Scan, ARP detection)
 
 ---
 
-## 🛠️ Projects
+<details>
+  <summary><strong>⚙️ Technical Skills</strong></summary>
 
-### **FAU Tecore Testbed**  
-*Python + Zeek + InfluxDB*  
-- Built secure login and dashboard to simulate and detect cyberattacks in real-time  
-- Created attack simulations (DDoS, Port Scan, ARP Spoofing) with visualization and alerting  
+  **Languages:** Python, Java, JavaScript, SQL, C, HTML/CSS, C++  
+  **Technologies:** Git, Firebase, Zeek, InfluxDB, VMware, Node.js, AWS  
+  **Frameworks & Libraries:** React, Express, Pandas, NumPy, Scikit-learn, Flask  
 
-### **FlightPath**  
-*React/Next.js*  
-- FAU's student-career matching tool (Senior Project Lead)  
-- Designed scalable UI, integrated with secure data routes, and planned mobile deployment
+  **Core Competencies:**  
+  - Full-stack Web Development | REST APIs | OOP | Cybersecurity Systems  
+  - Intrusion Detection (IDS) | Data Analysis  
+  - Product Strategy | Leadership Communication  
 
-### **Wordle Solver**
-*Python + NLP*
-- Developed an intelligent algorithm to solve Wordle puzzles in under 4 guesses on average
-- 	Used frequency analysis, positional heuristics, and recursive pruning of candidate word space
-- 	Simulates human-like reasoning with color-based feedback for efficient narrowing
+</details>
+
+<details>
+  <summary><strong>🛠️ Projects</strong></summary>
+
+  **FAU Tecore Testbed** – *Python + Zeek + InfluxDB*  
+  • Simulates and detects cyberattacks (DDoS, ARP poisoning, etc.)  
+  • Real-time dashboard with secure login and traffic monitoring  
+
+  **FlightPath** – *React/Next.js*  
+  • Senior Design Project: Career matching platform for students  
+  • Scalable UI, API integration, and mobile-first design  
+
+  **Wordle Solver** – *Python + NLP*  
+  • Solves Wordle puzzles in under 4 guesses using frequency & heuristics  
+  • Feedback-driven narrowing with simulated reasoning  
+
+</details>
