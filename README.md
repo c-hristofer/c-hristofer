@@ -10,8 +10,8 @@ I'm passionate about building secure, scalable systems that fuse intelligent aut
 - 📊 Dual-degree holder leveraging both product insight and technical depth
 
   **Florida Atlantic University** 
-  * B.S. Computer Science | AI Minor*
-  * B.B.A. Business Administration*
+  * B.S. Computer Science | AI Minor
+  * B.B.A. Business Administration
 
   - **2024 FAU Summer Undergraduate Research Fellow** – Conducted funded cybersecurity research in FAU's Tecore Lab
 
@@ -20,42 +20,78 @@ I'm passionate about building secure, scalable systems that fuse intelligent aut
 <details>
   <summary><strong>⚙️ Technical Skills</strong></summary>
 
-  **Languages:**  
-  Python, Java, JavaScript, C, C++, SQL, HTML/CSS  
+**Languages**  
+Python · SQL · Java · JavaScript (ES6+) · C++ · C · HTML5 · CSS3  
 
-  **Technologies & Tools:**  
-  Git, Firebase, Zeek, InfluxDB, Node.js, VMware, AWS, Linux, Intrusion Detection Systems (IDS)
+**Frameworks & Libraries**  
+React · Node.js · Express.js · Flask · Pandas · NumPy · Scikit-learn · TensorFlow · Seaborn · Matplotlib · .NET (C#)  
 
-  **Frameworks & Libraries:**  
-  React, Express, Flask, Pandas, NumPy, Scikit-learn  
+**Tools & Platforms**  
+Git · GitHub Actions (CI/CD) · Docker · Kubernetes · Terraform · AWS (SageMaker, ECS) · Firebase · Zeek · InfluxDB · Jupyter · Apache Kafka · Linux/Unix · REST APIs  
 
-  **Core Competencies:**  
-  - Full-stack Web Development (React, REST APIs, Firebase)  
-  - Machine Learning & Data Analysis (Scikit-learn, Pandas, OpenFHE)  
-  - Network Security & Intrusion Detection (Zeek IDS, traffic analysis, virtualized testing environments)  
-  - Secure Systems & Authentication (Login dashboards, role-based access control, network isolation)  
-  - Agile Workflow | Technical Documentation | Product Ideation  
+**Data Science & Analytics**  
+Machine Learning (XGBoost, SVM, LDA) · Feature Engineering · Data Cleaning · Statistical Analysis · KPI Modeling · Data Visualization · Automation Scripts  
+
+**DevOps & Infrastructure**  
+CI/CD pipelines · Containerization · Infrastructure as Code · Automated Testing · Performance Profiling · Service-oriented Architecture  
+
+**Core Competencies**  
+- Web Development (React, REST APIs, Firebase)  
+- Data Science & Machine Learning (Scikit-learn, Pandas, OpenFHE)  
+- Network Security & Intrusion Detection (Zeek IDS, traffic analysis, VMware testbeds)  
+- Secure Systems & Authentication (role-based access control, dashboard login flows, network isolation)  
+- Infrastructure & DevOps (Docker, Kubernetes, CI/CD pipelines, AWS ECS/EKS)  
+
+---
+
+**Professional Skills**  
+- Agile Workflow & Scrum facilitation  
+- Technical Documentation & Specification  
+- Product Ideation & Roadmapping  
 
 </details>
 
 <details>
   <summary><strong>🛠️ Projects</strong></summary>
 
-  ### **FAU Tecore Testbed** – *Python + Zeek + InfluxDB + VMs*  
-  - Designed a virtual testbed to simulate and detect cyberattacks (DDoS, Port Scan, ARP Poisoning)  
-  - Developed a secure login system and InfluxDB-based dashboard to monitor real-time traffic  
-  - Configured Zeek scripts for anomaly detection; used virtual machines for attack isolation and repeatability  
-  - Visualized and logged threats to assist in intrusion prevention research  
+### **GPT-Style Transformer from Scratch** – *Python · PyTorch*  
+_July 2025_
+- Tokenizer, multi-head self-attention, layer normalization, positional encoding, and feed-forward layers  
+- Trained on small poetry and code corpora to demonstrate coherent next-token prediction  
+- Visualized attention maps and loss convergence; packaged as easy-to-follow notebook
 
-  ### **FlightPath** – *React + Next.js + Firebase*  
-  - Led front-end and back-end development for a senior design project aimed at bridging students, faculty, and employers  
-  - Built secure, scalable UI with responsive design principles and Firebase integration  
-  - Developed dynamic routing for user-specific dashboards (students, employers, advisors)  
-  - Features planned: Mobile version, University SSO integration, and analytics tracking  
+### **FlightPath** – *React + Next.js + Firebase*  
+_April 2025 – Present_  
+- Led front-end and back-end development for a senior design project aimed at bridging students, faculty, and employers  
+- Built secure, scalable UI with responsive design principles and Firebase integration  
+- Developed dynamic routing for user-specific dashboards (students, employers, advisors)  
+- Features planned: Mobile version, University SSO integration, and analytics tracking
 
-  ### **Wordle Solver** – *Python + NLP-inspired heuristics*  
-  - Designed an efficient solver using word frequency analysis, letter position heuristics, and candidate pruning  
-  - Solves Wordle puzzles in fewer than 4 guesses on average  
-  - Mimics human-like feedback interpretation using green/yellow/gray coloring logic  
+### **Makemore Character-Level Language Model** – *Python · NumPy*  
+_May 2025 – July 2025_  
+- Implemented from scratch: unigram → bigram → neural net with hidden layer → backpropagation → sampling  
+- Explored softmax over character embeddings, training loops, and gradient descent  
+- Generated plausible “names” and text snippets, visualizing loss curves and sample outputs  
+
+### **AI Basketball Predictor** – *Python · TensorFlow · Scikit-learn · Pandas · NumPy*  
+_May 2025 – July 2025_  
+- Built and compared two models (neural network & random forest) to predict game outcomes and player performance  
+- Engineered features from historical box-score data, play-by-play logs, and advanced metrics  
+- Tuned hyperparameters via grid search and cross-validation, achieving > 75% game-result accuracy  
+- Packaged as a reusable Python module and deployed evaluation dashboard
+
+### **FAU Tecore Testbed** – *Python + Zeek + InfluxDB + VMs*  
+- Simulates DDoS, port-scan & ARP-poisoning attacks in containerized VMs  
+- Streams ingress traffic to an InfluxDB dashboard for real-time anomaly detection  
+- Configured secure logins, CI/CD pipelines, and Zeek scripts for research reproducibility
+- Visualized and logged threats to assist in intrusion prevention research
+
+### **Wordle Entropy Solver** – *Python · Matplotlib*  
+_April 2025 – July_  
+- Computes parallel entropy scores with `ProcessPoolExecutor`  
+- Four CLI modes: automated play, batch simulation, interactive demo, guided play  
+- Prunes candidates by feedback patterns and reports solve rates  
+- Outputs performance metrics and guess-count histogram  
+- Achieves 100% solve rate with an average of 3.70 guesses per word  
 
 </details>
