@@ -2,6 +2,7 @@
   <summary><strong>🎓 Education & Background</strong></summary>
   
 # Hi, I'm Christofer Piedra 👋  
+All of my projects and research experience are explained in more detail on my website https://christoferpiedra.com  
 
 I'm passionate about building secure, scalable systems that fuse intelligent automation, user-focused design, and business strategy. With a technical foundation in cybersecurity, machine learning, and full-stack development — and a business mindset from my dual-degree path — I focus on solving real-world problems that sit at the intersection of engineering and innovation.
 
@@ -19,6 +20,8 @@ I'm passionate about building secure, scalable systems that fuse intelligent aut
 
 <details>
   <summary><strong>⚙️ Technical Skills</strong></summary>
+  
+  All of my projects and research experience are explained in more detail on my website https://christoferpiedra.com  
 
 **Languages**  
 Python · SQL · Java · JavaScript (ES6+) · C++ · C · HTML5 · CSS3  
@@ -53,6 +56,8 @@ CI/CD pipelines · Containerization · Infrastructure as Code · Automated Testi
 
 <details>
   <summary><strong>🛠️ Projects</strong></summary>
+  
+  All of my projects and research experience are explained in more detail on my website https://christoferpiedra.com  
 
 ### **GPT-Style Transformer from Scratch** – *Python · PyTorch*  
 _July 2025_
@@ -99,6 +104,8 @@ _April 2025 – July 2025_
 
 <details>
 <summary><strong>📑 Publications & Presentations</strong></summary>
+  
+All of my projects and research experience are explained in more detail on my website https://christoferpiedra.com  
 
 ### Under Review  
 **Title:** *Common Cybersecurity Attack Types and Zeek-Based Detection Strategies in IoT Networks*  
