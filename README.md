@@ -24,6 +24,7 @@
   <br/>
   All of my projects & research experience are explained in more detail on my website https://www.christoferpiedra.com  
   <br/>
+  <br/>
   
   **Languages**  
   Python · JavaScript (ES6+) · C++ · C · HTML5 · CSS3 · SQL · Java  
