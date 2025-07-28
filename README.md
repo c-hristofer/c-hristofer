@@ -5,7 +5,7 @@
   
   All of my projects & research experience are explained in more detail on my website https://www.christoferpiedra.com  
   
-  I'm passionate about building secure, scalable systems that fuse intelligent automation, user-focused design, & business strategy. With a technical foundation in cybersecurity, machine learning, & full-stack development — & a business mindset from my dual-degree path — I focus on solving real-world problems that sit at the intersection of engineering & innovation.
+  I'm a driven software engineer skilled in designing secure full-stack applications & building predictive data models. Proficient with Git version control, clean-coding standards, & agile collaboration to rapidly adopt new technologies. With a Business Management background, I consistently strive for cost-efficient development with reusable automation software.
   
   - 💻 Full-stack & ML developer with a focus on building data-driven, secure applications
   - 🔐 Cybersecurity researcher experienced in network threat detection & traffic analysis
@@ -54,35 +54,33 @@
   <br/>
   All of my projects & research experience are explained in more detail on my website https://www.christoferpiedra.com  
 
-  ### **GPT-Style Transformer from Scratch** – *Python · PyTorch*  
-  - Tokenizer, multi-head self-attention, layer normalization, positional encoding, & feed-forward layers  
-  - Trained on small poetry & code corpora to demonstrate coherent next-token prediction  
-  - Visualized attention maps & loss convergence; packaged as an easy-to-follow notebook  
+  ### **Custom GPT-2 Build**
+  - Implemented a 12-layer GPT with bfloat16 DDP, cosine LR decay, grad accum & KV-cache for 20x faster inference
+  - Tokenized 10B FineWeb tokens & ran a 20-step proof-of concept, reducing val loss from 10.99 to 7.62 (0.246 on HellaSwag MC1)  
   
-  ### **FlightPath** – *React + Next.js + Firebase*  
-  - Lead front-end & back-end development for a senior design project, streamlining faculty communication  
-  - Built secure, scalable UI with responsive design principles & AWS integration  
-  - Developed dynamic routing for user-specific dashboards (Students, Employers, University Administration)  
-  - Features in agile development process: Mobile version, University SSO integration, & analytics tracking  
+  ### **FlightPath: Professional Networking Web App**
+  - Directed development of a full-stack LinkedIn-style app with 4 roles: students, employers, professors, university admin
+  - Engineered a secure, responsive, scalable UI with role-based navigation & AWS hosting across 40+ components
+  - Managed agile development cycles across 3 groups: developers, sponsor, & university administration  
   
-  ### **Makemore Character-Level Language Model** – *Python · NumPy*  
-  - Trained a 75,000+ parameter neural network on 30,000+ character-level sequences using backpropagation & gradient descent
-  - Reduced loss to 1.76 from 3.6, outperforming the random baseline of 2.30 for a 27-token vocabulary  
-  - Visualized training loss curves & sampled text outputs to assess model performance & tune architecture  
+  ### **Makemore Character-Level Language Model**
+  - Trained a 75k+ parameter neural network on 30k+ character sequences using backpropagation and gradient descent
+  - Reduced loss from 3.6 to 1.76, outperforming the random baseline of 2.30 for a 27-token vocabulary
+  - Visualized 3 training loss curves and sampled 100+ text outputs to assess model performance and tune architecture  
   
-  ### **AI Basketball Predictor** – *Python · TensorFlow · Scikit-learn · Pandas · NumPy*  
-  - Tuned hyperparameters via grid search & cross validation, achieving over 75% game-result accuracy  
-  - Built neural net & random forest models to predict future game outcomes based on team & player statistics  
-  - Packaged as a reusable Python module with an integrated evaluation dashboard  
+  ### **AI Basketball Predictor**
+  - Tuned hyperparameters via grid search & cross validation, achieving over 75% game-result accuracy
+  - Tuned hyperparameters via grid search and cross-validation across 500+ training iterations
+  - Packaged into a reusable Python module with an evaluation dashboard visualizing predictions across 12 metrics  
   
-  ### **Network Security Testbed with Detection & Dashboard** – *Python · Zeek · InfluxDB · Linux VMs*  
-  - Designed & deployed a modular testbed to detect ARP poisoning, DDoS, & port scan attacks using Zeek  
-  - Built a secure data pipeline to stream network traffic insights to InfluxDB dashboard for anomaly detection  
-  - Lead presentation of findings & progress to Department of Defense personnel, leading to new funding  
+  ### **Network Security Testbed with Detection & Dashboard**
+  - Detected & labeled 5 attack types (ARP poisoning, DDoS, port scan, etc.) in real time using custom IDS scripts  
+  - Implemented a secure data pipeline, processed 20k packets per run, displayed insights into an InfluxDB dashboard
+  - Personally secured $4,000 in research funding for summer work through a competitive fellowship program and led 2 presentations to a DoD representative, contributing to continued funding of a $591,000 cybersecurity grant  
   
-  ### **Wordle Entropy Solver** – *Python · Matplotlib*  
+  ### **Wordle Entropy Solver**
   - Achieved 100% solve rate with an average of 3.70 guesses per word  
-  - Prunes candidates by feedback patterns & reports solve rates for performance metrics
+  - Prunes candidates by feedback patterns & reports solve rates for performance metrics  
 
 </details>
 
@@ -95,19 +93,17 @@
   ### Summer Undergraduate Research Fellowship
   **Date:** Summer 2024  
   **Research Mentors:** Dr. Imad Mahgoub & Alain Edwards  
-  **Short Description:** Selected for a highly competitive fellowship to conduct cybersecurity research under Dr. Imadeldin Mahgoub; developed and implemented Zeek-based intrusion detection techniques for IoT networks  
+  **Short Description:** Selected as 1 of 20 fellows (roughly 10% acceptance rate) to conduct cybersecurity research under Dr. Imadeldin Mahgoub; developed and implemented Zeek-based intrusion detection techniques for IoT networks  
   
   ### Research Presentation  
   **Project:** *Security Enhancement of the FAU Tecore Lab IoT Testbed*  
   **Event:** Summer Fellowship Showcase  
   **Date:** August 2024  
-  **Short Description:** Invited to present “Security Enhancement of the FAU Tecore Lab IoT Testbed,” demonstrating Zeek-driven detection and mitigation strategies for common IoT threats  
+  **Short Description:** Showcased research findings to academic & DoD audiences at FAU’s Research Symposium. Engaged over 50 attendees during poster session  
   
   ### Research Paper Under Review
   **Paper Title:** Common Cybersecurity Attack Types & Zeek-Based Detection Strategies in IoT Networks  
   **Journal:** Florida Atlantic Undergraduate Research Journal (FAURJ)  
   **Status:** Submitted; under peer review  
   **Co-author:** Dr. Imad Mahgoub  
-  **Abstract Summary:**  
-  > This manuscript delivers a systematic taxonomy of five principal IoT network threats—reconnaissance; denial-of-service (DoS/DDoS); brute-force intrusions; man-in-the-middle & spoofing; & botnet/malware exploitation—& introduces a suite of Zeek-based detection algorithms. Detailed pseudocode is provided for each strategy, & empirical validation on publicly available IoT traffic datasets demonstrates robust, real-time detection performance & scalable throughput under varying load conditions
-</details>
+  **Short Description:** Under review at FAURJ; co-authored with Dr Imad Mahgoub; introduces Zeek-based detection algorithms for the 5 key IoT attack threats detected in “Network Security Testbed with Detection & Dashboard” project  
