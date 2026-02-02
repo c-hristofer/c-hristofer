@@ -1,109 +1,67 @@
-<details>
-  <summary><strong>🎓 Education & Background</strong></summary>
+# Hi, I'm Christofer Piedra 👋  
   
-  # Hi, I'm Christofer Piedra 👋  
-  
-  All of my projects & research experience are explained in more detail on my website https://www.christoferpiedra.com  
-  
-  I'm a driven software engineer skilled in designing secure full-stack applications & building predictive data models. Proficient with Git version control, clean-coding standards, & agile collaboration to rapidly adopt new technologies. With a Business Management background, I consistently strive for cost-efficient development with reusable automation software.
-  
-  - 💻 Full-stack & ML developer with a focus on building data-driven, secure applications
-  - 🔐 Cybersecurity researcher experienced in network threat detection & traffic analysis
-  - 📊 Dual-degree holder leveraging both product insight & technical depth
-
-  **Florida Atlantic University** 
-  - B.S. Computer Science | AI Minor
-  - B.B.A. Business Administration
-  - 2024 FAU Summer Undergraduate Research Fellow
-
-</details>
+I am a software engineer with a passion for full‑stack web development, machine learning, cybersecurity research, and systems programming. My work spans academic research projects, commercial platforms, and personal experiments. I software that solves real-world problems. My expertise covers modern JavaScript frameworks, Python for data and AI, C/C++ for systems, and cloud services for production‑grade deployments.
 
 <details>
-  <summary><strong>⚙️ Technical Skills</strong></summary>  
-
+  <summary><strong>🌐 Full-Stack Web & Platforms</strong></summary>  
   <br/>
-  All of my projects & research experience are explained in more detail on my website https://www.christoferpiedra.com  
-  <br/>
-  <br/>
-  
-  **Languages**  
-  Python · JavaScript (ES6+) · C++ · C · HTML5 · CSS3 · SQL · Java  
-  
-  **Frameworks & Tools**  
-  Git · React · Node.js · Pandas · NumPy · Seaborn · Matplotlib · TensorFlow · Scikit-learn · Linux/Unix · Intrusion Detection Systems (Zeek) · AWS (SageMaker, ECS) · Firebase  
-  
-  **Core Competencies**  
-  - Web Development (React, REST APIs, Firebase)  
-  - Data Science & Machine Learning (Scikit-learn, Pandas, OpenFHE)  
-  - Network Security & Intrusion Detection (Zeek IDS, traffic analysis, VMware testbeds)  
-  - Secure Systems & Authentication (role-based access control, dashboard login flows, network isolation)  
-  - Infrastructure & DevOps (Docker, Kubernetes, CI/CD pipelines, AWS ECS/EKS)  
-  
-  ---
-  
-  **Professional Skills**  
-  - Agile Workflow & Scrum facilitation  
-  - Technical Documentation & Specification  
-  - Product Ideation & Roadmapping  
 
-</details>
-
-<details>
-  <summary><strong>🛠️ Projects</strong></summary>  
-
-  <br/>
-  All of my projects & research experience are explained in more detail on my website https://www.christoferpiedra.com  
-
-  ### **Custom GPT-2 Build**
-  - Implemented a 12-layer GPT with bfloat16 DDP, cosine LR decay, grad accum & KV-cache for 20x faster inference
-  - Tokenized 10B FineWeb tokens & ran a 20-step proof-of concept, reducing val loss from 10.99 to 7.62 (0.246 on HellaSwag MC1)  
-  
   ### **FlightPath: Professional Networking Web App**
-  - Directed development of a full-stack LinkedIn-style app with 4 roles: students, employers, professors, university admin
-  - Engineered a secure, responsive, scalable UI with role-based navigation & AWS hosting across 40+ components
-  - Managed agile development cycles across 3 groups: developers, sponsor, & university administration  
-  
-  ### **Makemore Character-Level Language Model**
-  - Trained a 75k+ parameter neural network on 30k+ character sequences using backpropagation and gradient descent
-  - Reduced loss from 3.6 to 1.76, outperforming the random baseline of 2.30 for a 27-token vocabulary
-  - Visualized 3 training loss curves and sampled 100+ text outputs to assess model performance and tune architecture  
-  
-  ### **AI Basketball Predictor**
-  - Tuned hyperparameters via grid search & cross validation, achieving over 75% game-result accuracy
-  - Tuned hyperparameters via grid search and cross-validation across 500+ training iterations
-  - Packaged into a reusable Python module with an evaluation dashboard visualizing predictions across 12 metrics  
-  
-  ### **Network Security Testbed with Detection & Dashboard**
-  - Detected & labeled 5 attack types (ARP poisoning, DDoS, port scan, etc.) in real time using custom IDS scripts  
-  - Implemented a secure data pipeline, processed 20k packets per run, displayed insights into an InfluxDB dashboard
-  - Personally secured $4,000 in research funding for summer work through a competitive fellowship program and led 2 presentations to a DoD representative, contributing to continued funding of a $591,000 cybersecurity grant  
-  
-  ### **Wordle Entropy Solver**
-  - Achieved 100% solve rate with an average of 3.70 guesses per word  
-  - Prunes candidates by feedback patterns & reports solve rates for performance metrics  
+- Directed development of a full-stack LinkedIn-style app with 4 roles: students, employers, professors, university admin  
+- Engineered a secure, responsive, scalable UI with role-based navigation & AWS hosting across 40+ components  
+- Managed agile development cycles across 3 groups: developers, sponsor, & university administration
 
+  ### **Network Security Testbed with Detection & Dashboard**
+- Detected & labeled 5 attack types (ARP poisoning, DDoS, port scan, etc.) in real time using custom IDS scripts  
+- Implemented a secure data pipeline, processed 20k packets per run, displayed insights into an InfluxDB dashboard  
+- Personally secured $4,000 in research funding for summer work through a competitive fellowship program and led 2 presentations to a DoD representative, contributing to continued funding of a $591,000 cybersecurity grant
+
+  ### **Personal Website & Portfolio**
+- Developed a responsive single-page application using React/Next.js and Tailwind CSS to serve as a central hub for my résumé and project portfolio.  
+- Added showcases for major projects: demos of the FlightPath platform, an AI transformer playground, a sports analytics dashboard, and visualizations of intrusion detection metrics.  
+- Implemented markdown-based blog support, SEO optimization, and automated CI/CD pipelines via GitHub Actions.
+  
 </details>
 
 <details>
-  <summary><strong>🏆 Awards & Recognition</strong></summary>  
+  <summary><strong>🤖 AI & Machine Learning</strong></summary>  
+  <br/>  
+  ### **Custom GPT-2 Build**
+- Implemented a 12-layer GPT with bfloat16 DDP, cosine LR decay, grad accum & KV-cache for 20x faster inference  
+- Tokenized 10B FineWeb tokens & ran a 20-step proof-of concept, reducing val loss from 10.99 to 7.62 (0.246 on HellaSwag MC1)
 
+  ### **Makemore Character-Level Language Model**
+- Trained a 75k+ parameter neural network on 30k+ character sequences using backpropagation and gradient descent  
+- Reduced loss from 3.6 to 1.76, outperforming the random baseline of 2.30 for a 27-token vocabulary  
+- Visualized 3 training loss curves and sampled 100+ text outputs to assess model performance and tune architecture
+
+  ### **AI Basketball Predictor**
+- Tuned hyperparameters via grid search & cross validation, achieving over 75% game-result accuracy  
+- Tuned hyperparameters via grid search and cross-validation across 500+ training iterations  
+- Packaged into a reusable Python module with an evaluation dashboard visualizing predictions across 12 metrics
+
+  ### **GPT Experimentation Repository**
+- Provides pretraining and fine‑tuning scripts for GPT‑2–style models with configurable hyperparameters (layer count, head size, context length).  
+- Supports loading and evaluating OpenAI GPT‑2 checkpoints and generating text via CLI or web interface.  
+- Implements distributed data parallel training with gradient checkpointing to scale across multiple GPUs, enabling training of models beyond single-card memory limits.
+</details>
+
+<details>
+  <summary><strong>🧑‍💻 Fun/Community Projects</strong></summary>  
   <br/>
-  All of my projects & research experience are explained in more detail on my website https://www.christoferpiedra.com
+
+  ### **Voltage Robotics Team Website**
+- Designed and built a static site for Team Voltage using HTML5, CSS3, and vanilla JavaScript, featuring competition news, team member bios, and sponsor acknowledgments.  
+- Ensured mobile-first responsiveness and optimized images to sustain lighthouse scores above 95%; integrated Firebase Auth–secured admin tools for content updates via a headless CMS.  
+- Deployed the site with automated builds and incorporated analytics to track engagement during competition season.
+
+### **Mechanical Maniacs FLL Site**
+- Created a dynamic website for the Mechanical Maniacs FLL 2025 season using React and Firebase Hosting.  
+- Architected an interactive timeline and mission tracker aligned with the season’s archaeology theme and provided a headless CMS for team members to add blog posts, photos, and project updates without code changes.  
+- Integrated Google Analytics for user engagement insights and iterated on features to enhance visitor interaction.
+
+  ### **Wordle Entropy Solver**
+- Achieved 100% solve rate with an average of 3.70 guesses per word  
+- Prunes candidates by feedback patterns & reports solve rates for performance metrics  
   
-  ### Summer Undergraduate Research Fellowship
-  **Date:** Summer 2024  
-  **Research Mentors:** Dr. Imad Mahgoub & Alain Edwards  
-  **Short Description:** Selected as 1 of 20 fellows (roughly 10% acceptance rate) to conduct cybersecurity research under Dr. Imadeldin Mahgoub; developed and implemented Zeek-based intrusion detection techniques for IoT networks  
-  
-  ### Research Presentation  
-  **Project:** *Security Enhancement of the FAU Tecore Lab IoT Testbed*  
-  **Event:** Summer Fellowship Showcase  
-  **Date:** August 2024  
-  **Short Description:** Showcased research findings to academic & DoD audiences at FAU’s Research Symposium. Engaged over 50 attendees during poster session  
-  
-  ### Research Paper Under Review
-  **Paper Title:** Common Cybersecurity Attack Types & Zeek-Based Detection Strategies in IoT Networks  
-  **Journal:** Florida Atlantic Undergraduate Research Journal (FAURJ)  
-  **Status:** Submitted; under peer review  
-  **Co-author:** Dr. Imad Mahgoub  
-  **Short Description:** Under review at FAURJ; co-authored with Dr Imad Mahgoub; introduces Zeek-based detection algorithms for the 5 key IoT attack threats detected in “Network Security Testbed with Detection & Dashboard” project  
+</details>
