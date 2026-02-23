@@ -1,9 +1,9 @@
-# Hi, I'm Christofer Piedra 👋  
+# Hi, I'm Christofer Piedra
   
 I am a software engineer with a passion for full‑stack web development, machine learning, cybersecurity research, and systems programming. My work spans academic research projects, commercial platforms, and personal experiments. I software that solves real-world problems. My expertise covers modern JavaScript frameworks, Python for data and AI, C/C++ for systems, and cloud services for production‑grade deployments.
 
 <details>
-  <summary><strong>🌐 Full-Stack Web & Platforms</strong></summary>
+  <summary><strong>Full-Stack Web & Platforms</strong></summary>
 
 ### **FlightPath: Professional Networking Web App**
 - Directed development of a full-stack LinkedIn-style app with 4 roles: students, employers, professors, university admin
@@ -37,7 +37,7 @@ I am a software engineer with a passion for full‑stack web development, machin
 </details>
 
 <details>
-  <summary><strong>🤖 AI & Machine Learning</strong></summary>
+  <summary><strong>AI & Machine Learning</strong></summary>
 
 ### **Custom GPT-2 Build**
 - Implemented a 12-layer GPT with bfloat16 DDP, cosine LR decay, grad accum & KV-cache for 20x faster inference
@@ -60,7 +60,7 @@ I am a software engineer with a passion for full‑stack web development, machin
 </details>
 
 <details>
-  <summary><strong>🧑‍💻 Fun/Community Projects</strong></summary>
+  <summary><strong>Fun/Community Projects</strong></summary>
 
 ### **Voltage Robotics Team Website**
 - Designed and built a static site for Team Voltage using HTML5, CSS3, and vanilla JavaScript, featuring competition news, team member bios, and sponsor acknowledgments.
