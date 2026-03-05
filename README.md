@@ -1,6 +1,6 @@
 # Hi, I'm Christofer Piedra
   
-I am a software engineer with a passion for full‑stack web development, machine learning, cybersecurity research, and systems programming. My work spans academic research projects, commercial platforms, and personal experiments. I software that solves real-world problems. My expertise covers modern JavaScript frameworks, Python for data and AI, C/C++ for systems, and cloud services for production‑grade deployments.
+Most of the repos are private, but here’s a quick blurb about most/all of them
 
 <details>
   <summary><strong>Full-Stack Web & Platforms</strong></summary>
