@@ -10,12 +10,6 @@
 2. [Daybound](#)  
    A travel-planning app for organizing destinations, activities, schedules, reservations, and complete day-by-day itineraries in one place.
 
-## Education
-
-- B.S. in Computer Science
--- Minor in Artificial Intelligence
-- B.B.A. in Management
-
 ## Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/christofer-piedra/)
