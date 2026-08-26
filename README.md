@@ -1,6 +1,6 @@
-# Hey, I'm Chris
+# Hey, I'm Chris 👋🏽
 
-- I'm a Communication Systems Engineer at Kennedy Space Center, but I have a lot of fun with software development.
+I'm a Communication Systems Engineer at Kennedy Space Center, but I have a lot of fun with software development.
 
 ## Currently building
 
