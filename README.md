@@ -4,10 +4,10 @@
 
 ## Currently building
 
-1. [FitPlan](#)  
+1. [FitPlan](https://stride-software.info/strengthplan/) 
    A personalized workout planning and tracking app for creating science-backed strength, cardio, and interval training programs, tracking progress, and staying consistent.
 
-2. [Daybound](#)  
+2. [Daybound](https://stride-software.info/daybound/)  
    A travel-planning app for organizing destinations, activities, schedules, reservations, and complete day-by-day itineraries in one place.
 
 ## Connect with me
