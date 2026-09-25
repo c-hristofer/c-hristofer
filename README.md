@@ -4,7 +4,7 @@ I'm a Communication Systems Engineer at Kennedy Space Center, but I have a lot o
 
 ## Currently building
 
-1. [FitPlan](https://stride-software.info/strengthplan/) 
+1. [FitPlan](https://apps.apple.com/us/app/strengthplan-workout-tracker/id6797259358) 
    A personalized workout planning and tracking app for creating science-backed strength, cardio, and interval training programs, tracking progress, and staying consistent.
 
 2. [Daybound](https://stride-software.info/daybound/)  
