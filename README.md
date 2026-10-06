@@ -1,7 +1,5 @@
 # Hey, I'm Chris 👋🏽
 
-I'm a Communication Systems Engineer at Kennedy Space Center, but I have a lot of fun with software development.
-
 ## Currently building
 
 1. [StrengthPlan](https://apps.apple.com/us/app/strengthplan-workout-tracker/id6797259358) 
