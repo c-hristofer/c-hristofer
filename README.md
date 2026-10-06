@@ -11,7 +11,4 @@
 ## Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/christofer-piedra/)
-- [X](https://x.com/c_hristofer)
 - [Portfolio](https://christoferpiedra.com)
-  
-Feel free to reach out or check out what I’m building.
